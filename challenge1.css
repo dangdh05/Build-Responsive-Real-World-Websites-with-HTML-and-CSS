@@ -1,0 +1,56 @@
+.product {
+  border: solid 4px black;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.price {
+  font-size: 24px;
+}
+
+.shipping {
+  font-size: 12px;
+  font-weight: bold;
+  color: #777;
+}
+
+.more-information:visited,
+.more-information:link {
+  color: black;
+}
+.more-information:hover,
+.more-information:active {
+  text-decoration: none;
+}
+
+.cart {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+  /* trỏ vào ra hình bàn tay */
+}
+
+.details-list {
+  list-style: square;
+}
+
+.details-title {
+  font-size: 16px;
+}
+
+.product-title {
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 22px;
+}
+
+.cart:hover {
+  background-color: white;
+  color: black;
+}
