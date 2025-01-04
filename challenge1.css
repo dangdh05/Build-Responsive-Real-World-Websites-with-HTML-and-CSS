@@ -36,7 +36,6 @@ body {
   float: left;
   margin-left: 40px;
   margin-top: 20px;
-  padding: 20px;
 }
 
 .price {
@@ -50,6 +49,7 @@ body {
   font-size: 12px;
   font-weight: bold;
   margin-bottom: 20px;
+  margin-top: 8px;
   float: right;
 }
 
@@ -69,6 +69,7 @@ body {
 
 .product-description {
   clear: both;
+  margin-bottom: 10px;
 }
 
 .more-info:visited,
@@ -110,7 +111,7 @@ more-info:active {
 .product-details {
   width: 243px;
   float: right;
-  margin-top: -15px;
+  margin-top: -7px;
 }
 
 .details-title {
